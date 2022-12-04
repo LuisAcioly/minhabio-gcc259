@@ -4,9 +4,9 @@
 
 # Dados pessoais:
 
-    * __Matricula:__ 201721128
-    * __Email:__ luis.bastos@estudante.ufla.br
-    * __Curso:__ Ciência da Computação
+* __Matricula:__ 201721128
+* __Email:__ luis.bastos@estudante.ufla.br
+* __Curso:__ Ciência da Computação
 
 # Conhecimentos
 
